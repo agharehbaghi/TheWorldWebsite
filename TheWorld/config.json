@@ -1,0 +1,11 @@
+{
+  "MailSetting": {
+    "ToAddress": "arad.gharehbaghi@gmail.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  },
+  "Keys": {
+    "BingKey": "AvC9fOE8yD3fFcoTUMA-QcuYHa-0JUo5eX65kkhjzGMux8bO6t9ijnZNUUirs51b"
+  }
+}
