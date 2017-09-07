@@ -12,5 +12,7 @@ namespace TheWorld.Models
         public DateTime FirstTrip { get; set; }
         public string Test { get; set; }
         public int TestId { get; set; }
+        public int Test2 { get; set; }
+
     }
 }
