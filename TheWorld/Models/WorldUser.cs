@@ -14,6 +14,8 @@ namespace TheWorld.Models
         public int TestId { get; set; }
         public int Test2 { get; set; }
         public int Test3 { get; set; }
+        public int Test4 { get; set; }
+
 
     }
 }
