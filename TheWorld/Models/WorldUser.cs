@@ -13,6 +13,7 @@ namespace TheWorld.Models
         public string Test { get; set; }
         public int TestId { get; set; }
         public int Test2 { get; set; }
+        public int Test3 { get; set; }
 
     }
 }
